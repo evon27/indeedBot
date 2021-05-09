@@ -13,7 +13,7 @@ import (
 
 const (
 	Prefix string = "/"
-	Token string = "Nzc5MzA4NzY0NDYxMTM3OTgw.X7ep2A.SQO-MQLe1NnJ4w5OG9yvPMhoeww"
+	Token string = ""
 )
 
 func main() {
