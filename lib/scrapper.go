@@ -115,9 +115,7 @@ func getPages(baseURL string) int {
 
 func checkErr(err error) {
 	if err != nil {
-		if err != nil {
-			log.Fatalln(err)
-		}
+		log.Fatalln(err)
 	}
 }
 
